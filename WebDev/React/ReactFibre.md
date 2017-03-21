@@ -1,6 +1,4 @@
-## React JS - Awesome, Accomodating, Lightweight UI library.
-
-#### Andrew Clark's (@acdlite) talk on React Fiber. [Link](https://www.youtube.com/watch?v=aV1271hd9ew)
+### Andrew Clark's (@acdlite) talk on React Fiber. [Link](https://www.youtube.com/watch?v=aV1271hd9ew)
 
 * This talk, happened in ReactNext 2016, introduces what React Fiber (A core reimplementation for React) stands for
 * Talks about how the current React scheduling (for re-renders and stuff) is a pull based, completely synchronous execution for applying an update
