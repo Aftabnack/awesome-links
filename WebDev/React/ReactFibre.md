@@ -1,5 +1,6 @@
 ### [Andrew Clark](https://github.com/acdlite) talk on React Fiber. [Link](https://www.youtube.com/watch?v=aV1271hd9ew)
 
+* His notes on React Fiber. [Here](https://github.com/acdlite/react-fiber-architecture)
 * This talk, happened in ReactNext 2016, introduces what React Fiber (A core reimplementation for React) stands for
 * Talks about how the current React scheduling (for re-renders and stuff) is a pull based, completely synchronous execution for applying an update
 * And the need for priority scheduling, preferential updates, pause current execution and resume later on is being drawn.
