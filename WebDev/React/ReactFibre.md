@@ -13,3 +13,5 @@
 * Can help implement return multiple elements from a component. (Currently we have to wrap it in a `div` or a `span`
 
 ### Dan's notes. [Here](https://github.com/Aftabnack/AwesomeLinks/blob/master/WebDev/React/FiberNotes.jpg)
+
+### Sebastian explaining the core React Fiber principles. [Link](https://github.com/facebook/react/issues/7942)
