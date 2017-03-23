@@ -12,4 +12,4 @@
 * `requestIdleCallback(cb)` is a browser provided function which will invoke the callback in the browser's idle time, with this we can achieve the pause n resume. So basically lower priority fibers (renders) are called using this, so that it can look for higher priority work registered with another callback `requestAnimationFrame(cb)`
 * Can help implement return multiple elements from a component. (Currently we have to wrap it in a `div` or a `span`
 
-### Dan's notes. [Here](/FiberNotes.jpg)
+### Dan's notes. [Here](https://github.com/Aftabnack/AwesomeLinks/blob/master/WebDev/React/FiberNotes.jpg)
