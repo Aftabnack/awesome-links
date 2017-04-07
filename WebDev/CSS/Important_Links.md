@@ -1,10 +1,10 @@
-## Flex layouting [Link](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
+## Flex layouting [CheatSheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 
 * Flexible boxes, or flexbox, is a new layout mode in CSS3.
 * Use of flexbox ensures that elements behave predictably when the page layout must accommodate different screen sizes and different display devices.
 * For many applications, the flexible box model provides an improvement over the block model in that it does not use floats, nor do the flex container's margins collapse with the margins of its contents.
 
-## Grid layouting [Link](https://css-tricks.com/snippets/css/complete-guide-grid/) [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+## Grid layouting [CheatSheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
 * CSS Grid layout has been designed to provide a two-dimensional layout method for CSS, with the ability to lay out items in rows and columns.
 * A CSS grid can be used to achieve many different layouts.
