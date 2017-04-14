@@ -18,3 +18,15 @@
 #### Emmet [Link](http://emmet.io/)
 
 * It allows you to write html n css faster with short abbrevations
+* Tab/Ctrl + E to expand abbrev
+
+#### Git [Link]()
+
+#### GitGutter [Link]()
+
+#### All Autocomplete [Link]()
+
+#### DocBlockr [Link](https://github.com/spadgos/sublime-jsdocs)
+
+* Helps you easily write comments by auto collecting all the params
+* Trigger is /\*\* and enter
