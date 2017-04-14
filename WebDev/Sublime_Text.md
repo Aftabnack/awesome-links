@@ -69,6 +69,8 @@
 |Ctrl + KU | Transform to Uppercase |
 |Ctrl + KL | Transform to Lowercase |
 
+-------
+
 
 > Following are the plugins that makes the life easier for development
 
@@ -107,3 +109,6 @@
 * Helps you easily write comments by auto collecting all the params
 * Trigger is /\*\* and enter
 
+#### Javascript Beautify [Link]()
+
+* Javascript auto format using Ctrl + Alt + F
