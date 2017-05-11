@@ -1,5 +1,25 @@
 # Understanding stuff behind [React-Boilerplate](https://github.com/react-boilerplate/react-boilerplate). (Mind = blown)
 
+### React
+
+### Redux
+
+### ImmutableJS
+
+### React-Router
+
+### Reselect
+
+### React-intl
+
+### [Jest](https://facebook.github.io/jest/) and [Enzyme](http://airbnb.io/enzyme/)
+
+* To be explored
+
+### [Sanitize.css](https://github.com/jonathantneal/sanitize.css)
+
+* Fixes cross browser CSS defaults anomalies to some extent
+
 ### [Redux-Saga](https://github.com/redux-saga/redux-saga)
 
 * This is a package to manage stuff like async API calls easily.
@@ -71,4 +91,4 @@ export default Button;
 * This small package keeps the react-router's data (Read URL) into the redux state, so that when you replay the user activity using live reload, it can also play back page navigations now.
 * It is now being made as a part of the [React-Router](https://github.com/ReactTraining/react-router) itself
 
-### 
+### TO come
