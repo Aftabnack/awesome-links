@@ -31,9 +31,26 @@
 > * If I try to update Data A and expect only ChildA to re-render, doesn't work since Immutable would have changed reference of everything, ChildB would also re-render even with `PureComponent` used
 
 
-### React-Router
+### [React-Router](https://github.com/ReactTraining/react-router)
 
-### ESLint
+* Client side routing between pages
+* Maintain common layout between pages/views
+* Easy to setup and use
+* Using import plugin in the routes will make sure only that route's assets are downloaded onto the browser
+
+### [offline-plugin](https://github.com/NekR/offline-plugin)
+
+* Webpack plugin which will cache your application assets for offline loading of assets
+* Uses serviceWorker and AppCache to achieve this
+* We need clientside runtime and webpack config plugin for this to work
+* This is to just save the assets, the actual application to work cleanly offline, should probably use some CouchDB (indexedDB implementation) to save to local when no network
+
+### [ESLint](http://eslint.org/)
+
+* Easy linting utility to check the semantics of your code
+* Can throw error/warning on some pre-defined standards
+* Complete list can be seen [here](http://eslint.org/docs/rules/)
+* Creating a ESLint rule is also [simple](ESLint_Custom.md).
 
 ### Webpack
 
