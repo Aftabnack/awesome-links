@@ -36,3 +36,32 @@ function stopObservable() {
   observable1.next("somegibberishhere");
 }
 ```
+
+### [Styled-Components](https://github.com/styled-components/styled-components) (Other major Mind = Blown moment)
+
+* You can create your own copy of the HTML component with your default styling applied
+* You can add css pseudo selectors like `hover` and `active` for those elems
+* You can control CSS values via the props. (OMG!!)
+* Check this example out
+
+```JSX
+import styled from 'styled-components';
+
+const Button = styled.button`
+  /* Adapt the colors based on primary prop */
+  background: ${props => props.primary ? 'palevioletred' : 'white'};
+  color: ${props => props.primary ? 'white' : 'palevioletred'};
+
+  font-size: 1em;
+  margin: 1em;
+  padding: 0.25em 1em;
+  border: 2px solid palevioletred;
+  border-radius: 3px;
+  
+  &:hover {
+    box-shadow: inset 1px 1px 2px rgba(0,0,0,0.1);
+  }
+`;
+
+export default Button;
+```
