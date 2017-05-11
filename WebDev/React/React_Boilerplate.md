@@ -18,7 +18,7 @@
 
 ### [Sanitize.css](https://github.com/jonathantneal/sanitize.css)
 
-* Fixes cross browser CSS defaults anomalies to some extent
+* Fixes cross browser CSS defaults anomalies to some extent (Cuz I haven't seen it in works)
 
 ### [Redux-Saga](https://github.com/redux-saga/redux-saga)
 
