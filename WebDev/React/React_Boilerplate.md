@@ -31,4 +31,8 @@ observable1.next(); //this creates and starts the observable
 function changeVal(newval) {
   observable1.next(newVal);
 }
+
+function stopObservable() {
+  observable1.next("somegibberishhere");
+}
 ```
