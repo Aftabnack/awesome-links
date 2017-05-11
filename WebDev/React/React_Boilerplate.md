@@ -52,7 +52,14 @@
 * Complete list can be seen [here](http://eslint.org/docs/rules/)
 * Creating a ESLint rule is also [simple](ESLint_Custom.md).
 
-### Webpack
+### [Webpack](https://webpack.js.org/)
+
+* Swiss Army Knife for the front-end development
+* Boon for developing SPA
+* Combine your code, bundle, minify, uglify, strip unused exports before serving it to client
+* Provides provisioning for Hot Reloading
+* Understand the concepts [here](https://webpack.js.org/concepts/)
+* Get to the documentation [here](https://webpack.js.org/configuration/)
 
 ### Reselect
 
