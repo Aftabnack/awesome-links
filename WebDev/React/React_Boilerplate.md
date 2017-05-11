@@ -1,20 +1,45 @@
 # Understanding stuff behind [React-Boilerplate](https://github.com/react-boilerplate/react-boilerplate). (Mind = blown)
 
-### React
+### [React](https://facebook.github.io/react/)
 
-### Redux
+* Needs no explaination
+* Only framework as of now and to my knowledge which has a pull based update mechanism
+* The biggest killer framework yet!
 
-### ImmutableJS
+### [Redux](http://redux.js.org/)
+
+* Data management (Model in MVC) simplified
+* Single state tree for your entire application
+* Three simple principles
+  * Single source of truth
+  * State is read-only
+  * State modification is done via pure functions
+* Simple APIs to interact with them [API reference](https://github.com/reactjs/redux/blob/master/docs/api/README.md)
+* Actions (created by actionCreators) describe the change to be made
+* Reducers are where changes are made
+* Store is where everything comes together
+
+### [ImmutableJS](https://facebook.github.io/immutable-js/)
+
+* Library that helps in achieving the pure modifications required in Redux
+* Has hell lot of APIs for ease of object[Map]/array[List] manipulations
+* Recommended for most usecases and is optimized for good perf!
+
+> Note: There is one scenario in which this has failed me
+> * If my parent has Data A and Data B passed to it (from same reducer)
+> * If ChildA is getting Data A & ChildB is getting Data B from the parent
+> * If I try to update Data A and expect only ChildA to re-render, doesn't work since Immutable would have changed reference of everything, ChildB would also re-render even with `PureComponent` used
+
 
 ### React-Router
-
-### Reselect
-
-### React-intl
 
 ### ESLint
 
 ### Webpack
+
+### Reselect
+
+### React-intl
 
 ### [Jest](https://facebook.github.io/jest/) and [Enzyme](http://airbnb.io/enzyme/)
 
