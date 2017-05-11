@@ -56,14 +56,23 @@
 
 * Swiss Army Knife for the front-end development
 * Boon for developing SPA
-* Combine your code, bundle, minify, uglify, strip unused exports before serving it to client
+* Combine your code, bundle, minify, uglify, [strip unused exports](https://webpack.js.org/guides/tree-shaking/) before serving it to client
 * Provides provisioning for Hot Reloading
 * Understand the concepts [here](https://webpack.js.org/concepts/)
 * Get to the documentation [here](https://webpack.js.org/configuration/)
 
-### Reselect
+### [Reselect](https://github.com/reactjs/reselect)
 
-### React-intl
+* Save lot of computation by memoizing the function results
+* What it does is, it takes functions called `selectors` to derive the param value to the function
+* Until and unless the param value changes it won't re-run the function and instead returns the previous cached result
+* It caches only one previous return value of a function
+* The `selectors` are composable btw
+
+### [React-intl](https://github.com/yahoo/react-intl)
+
+* This will take care of re-formatting date, numbers and such according to the locale
+* This is for i8ln
 
 ### [Jest](https://facebook.github.io/jest/) and [Enzyme](http://airbnb.io/enzyme/)
 
