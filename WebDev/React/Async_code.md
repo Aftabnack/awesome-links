@@ -22,7 +22,7 @@
 * Async code in 4 different ways with code. [Link](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc)
 * Comparison between Redux Saga and Redux Observables. [Link](https://hackmd.io/s/H1xLHUQ8e)
 
-### Redux-Saga
+### [Redux-Saga](https://github.com/redux-saga/redux-saga)
 
 * Function generators based
 * This is a redux middleware
