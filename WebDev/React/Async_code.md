@@ -14,3 +14,12 @@
 
 * This is a worthy challenger to Axios.
 * Won't go into much details on it
+
+# React-redux Async
+
+* There are different things that you want to achieve when used in conjunction with UI code.
+* Stuff like debouncing, timeout, cancelling requests are needed
+
+### Redux-Saga
+
+* Function generators based
