@@ -12,6 +12,9 @@
 ---
 
 * [Plain JS folder](WebDev/VanillaJS)
+    * [Web developer avenues](WebDev/VanillaJS/Developer_Tracks.md)
+    * [Must watch links](WebDev/VanillaJS/Interesting_Links.md)
+    * [Offline webapps](WebDev/VanillaJS/Offline_WebApps.md)
 
 ---
 
