@@ -15,6 +15,7 @@
     * [Web developer avenues](WebDev/VanillaJS/Developer_Tracks.md)
     * [Must watch links](WebDev/VanillaJS/Interesting_Links.md)
     * [Offline webapps](WebDev/VanillaJS/Offline_WebApps.md)
+    * [Wrinting custom ESLint rules](WebDev/VanillaJS/Custom_ESLint.md)
 
 ---
 
@@ -32,3 +33,10 @@
 ---
 
 * [React folder](WebDev/React)
+    * [Writing Async code in React](WebDev/React/Async_code.md)
+    * [React fiber](WebDev/React/ReactFibre.md)
+    * [Measuring perf](WebDev/React/Perf.md)
+    * [Migrating react codebase](WebDev/React/Migrations.md)
+    * [New things to try out](WebDev/React/ReactWorld.md)
+    * [React Boilerplate breakdown](WebDev/React/React_Boilerplate.md)
+    * [Testing](WebDev/React/Testing.md)
