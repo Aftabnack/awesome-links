@@ -19,10 +19,15 @@
 ---
 
 * [CSS folder](WebDev/CSS)
+    * [Interesting creations](WebDev/CSS/Creations.md)
+    * [Latest developments](WebDev/CSS/Latest.md)
 
 ---
 
 * [StackOverflow codes folder](WebDev/StackOverflow)
+    * [React](WebDev/StackOverflow/React.md)
+    * [Babel](WebDev/StackOverflow/Babel.md)
+    * [Plain JS](WebDev/StackOverflow/VanillaJS.md)
 
 ---
 
