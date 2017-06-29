@@ -4,7 +4,23 @@
 
 ## Link tree:
 
-* [WebDev/React](WebDev/React)
-* [WebDev/CSS](WebDev/CSS)
-* [WebDev/StackOverflow codes](WebDev/StackOverflow)
-* [WebDev/Plain JS](WebDev/VanillaJS)
+* [App Deployment](WebDev/App_Deploy.md)
+* [WebApp UI design](WebDev/Design.md)
+* [Sublime Text setup](WebDev/Sublime_Text.md)
+* [Webpack](WebDev/Webpack.md)
+
+---
+
+* [Plain JS folder](WebDev/VanillaJS)
+
+---
+
+* [CSS folder](WebDev/CSS)
+
+---
+
+* [StackOverflow codes folder](WebDev/StackOverflow)
+
+---
+
+* [React folder](WebDev/React)
