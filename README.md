@@ -21,6 +21,8 @@
 
 * [CSS folder](WebDev/CSS)
     * [Interesting creations](WebDev/CSS/Creations.md)
+    * [FlexBox](WebDev/CSS/FlexBox.md)
+    * [Grid](WebDev/CSS/Grid.md)
     * [Latest developments](WebDev/CSS/Latest.md)
 
 ---
