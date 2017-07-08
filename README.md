@@ -44,3 +44,6 @@
     * [New things to try out](WebDev/React/ReactWorld.md)
     * [React Boilerplate breakdown](WebDev/React/React_Boilerplate.md)
     * [Testing](WebDev/React/Testing.md)
+
+* [Linux Folder](Linux)
+   * [Terminal](Linux/Terminal.md)
