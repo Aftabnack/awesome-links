@@ -14,3 +14,8 @@
     * MDN docs
     * Dive into the code
     * Stackoverflow
+
+
+## Interesting Links
+
+* How to do form validation. [Here](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
