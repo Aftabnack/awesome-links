@@ -1,3 +1,6 @@
+### Detailed explaination of React inner workings [here](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
+
+
 ### [Andrew Clark](https://github.com/acdlite) talk on React Fiber. [Link](https://www.youtube.com/watch?v=aV1271hd9ew)
 
 * His notes on React Fiber. [Here](https://github.com/acdlite/react-fiber-architecture)
