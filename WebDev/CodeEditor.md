@@ -31,6 +31,7 @@
 * `file-icons`
 * `fonts`
 * `autocomplete-paths`
+* `terminal-plus`
 
 > Syntax highlighting custom
 
