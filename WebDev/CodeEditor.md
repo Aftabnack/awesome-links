@@ -8,6 +8,8 @@
 
 > Install packages
 
+**Note: For any description, open same named package on `atom.io`**
+
 * `language-babel`
 * `emmet`
 * `atom-beautify`
@@ -16,6 +18,32 @@
 * `minimap`
 * `minimap-highlight-selected`
 * `linter`
+  * `linter-eslint`
+  * `linter-csslint`
+* `git-blame`
+* `seti-ui`
+* `monokai-seti`
+* `open-recent`
+* `rest-client`
+* `color-picker`
+* `atom-comb-css`
+* `merge-conflicts`
+* `file-icons`
+* `fonts`
+* `autocomplete-paths`
+
+> Syntax highlighting custom
+
+```
+"*":
+  core:
+    customFileTypes:
+      "source.js.jsx": [
+        "phnx"
+        "phnxapp"
+        "phnxdef"
+      ]
+```
 
 ## Sublime Text - Editor of choice for web dev
 
