@@ -6,7 +6,7 @@
 
 * [App Deployment](WebDev/App_Deploy.md)
 * [WebApp UI design](WebDev/Design.md)
-* [Sublime Text setup](WebDev/Sublime_Text.md)
+* [Code Editor setup](WebDev/CodeEditor.md)
 * [Webpack](WebDev/Webpack.md)
 
 ---
