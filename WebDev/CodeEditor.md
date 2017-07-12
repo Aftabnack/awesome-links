@@ -12,6 +12,10 @@
 * `emmet`
 * `atom-beautify`
 * `docblockr`
+* `highlight-selected`
+* `minimap`
+* `minimap-highlight-selected`
+* `linter`
 
 ## Sublime Text - Editor of choice for web dev
 
