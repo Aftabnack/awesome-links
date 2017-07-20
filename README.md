@@ -51,3 +51,6 @@
 
 * [Linux Folder](Linux)
    * [Terminal](Linux/Terminal.md)
+   
+* [Others Folder](Others)
+   * [Android ROM mod](Others/Android_ROM_Mod.md)
