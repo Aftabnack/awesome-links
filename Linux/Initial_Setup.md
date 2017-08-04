@@ -1,4 +1,4 @@
-## These are the steps to install R:
+## Installing R:
 * Add the cran url to the /etc/apt/sources.list 
 	"      http://cloud.r-project.org/bin/linux/ubuntu trusty/"
 	Note: "trusty" is the identifier for Ubuntu 14.04 LTS
