@@ -25,6 +25,7 @@
     * [Interesting creations](WebDev/CSS/Creations.md)
     * [FlexBox](WebDev/CSS/FlexBox.md)
     * [Grid](WebDev/CSS/Grid.md)
+    * [SVG Creations](WebDev/CSS/SVG-Creations.md)
     * [SVG Patterns](WebDev/CSS/SVG-Patterns.md)
     * [Latest developments](WebDev/CSS/Latest.md)
     * [Resources](WebDev/CSS/Bibliography.md)
