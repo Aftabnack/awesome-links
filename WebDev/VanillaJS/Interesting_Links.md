@@ -19,3 +19,4 @@
 ## Interesting Links
 
 * How to do form validation. [Here](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
+* [State of JS 2016](http://stateofjs.com/2016/introduction/)
