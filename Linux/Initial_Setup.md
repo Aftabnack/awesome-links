@@ -24,12 +24,6 @@ $sudo apt-get install oracle-java8-installer
 * Install other softwares via tar.gz: eclipse, NodeJS, MongoDB
 * Softwares that need the path to be added: NodeJS, MongoDB
 
-
-## Sublime text
-* `sudo add-apt-repository ppa:webupd8team/sublime-text-3`
-* `sudo apt-get update`
-* `sudo apt-get install sublime-text-installer`
-
 ## NVM (to manage nodejs installations)
 * `sudo apt-get update`
 * `sudo apt-get install build-essential libssl-dev`
