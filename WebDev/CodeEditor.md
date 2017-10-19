@@ -17,9 +17,9 @@
 * `highlight-selected`
 * `minimap`
 * `minimap-highlight-selected`
-* `linter`
-  * `linter-eslint`
-  * `linter-csslint`
+* `linter` (Disabled for now)
+  * `linter-eslint` (Disabled for now)
+  * `linter-csslint` (Disabled for now)
 * `git-blame`
 * `seti-ui`
 * `monokai-seti`
@@ -32,6 +32,8 @@
 * `fonts`
 * `autocomplete-paths`
 * `terminal-plus`
+* `atom-ide-ui`
+* `ide-typescript`
 
 > Syntax highlighting custom
 
