@@ -17,6 +17,7 @@
     * [Webpack](WebDev/VanillaJS/Webpack.md)
     * [ESLint](WebDev/VanillaJS/ESLint.md)
     * [30 second Code Snippets](https://github.com/Chalarangelo/30-seconds-of-code#readme)
+    * [Best frontend Cheatsheet collection](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
     * [Build a CLI for nodeJS](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/)
     * [Async Await](WebDev/VanillaJS/AsyncAwait.md)
     * [Cool Console stuff](WebDev/VanillaJS/Console.md)
