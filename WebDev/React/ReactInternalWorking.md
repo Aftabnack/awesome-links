@@ -18,3 +18,7 @@
 ### Dan's notes. [Here](https://raw.githubusercontent.com/Aftabnack/AwesomeLinks/master/WebDev/React/FiberNotes.jpg)
 
 ### Sebastian explaining the core React Fiber principles. [Link](https://github.com/facebook/react/issues/7942)
+
+### Contribute to React [Preface](https://reactjs.org/docs/how-to-contribute.html)
+
+### Make a custom react renderer. [Guide](https://github.com/nitin42/Making-a-custom-React-renderer)
