@@ -22,3 +22,4 @@
 * [State of JS 2016](http://stateofjs.com/2016/introduction/)
 * [Prepare for JS interview](https://github.com/adam-s/js-interview-review)
 * [Learn Anything](https://codedamn.com/)
+* [20 Guides for Front-End-Devs](https://www.sitepoint.com/20-docs-guides-front-end-developers-9/)
