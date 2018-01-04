@@ -1,3 +1,15 @@
+## Interesting Links
+
+* [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
+* How to do form validation. [Here](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
+* [State of JS 2016](http://stateofjs.com/2016/introduction/)
+* [Prepare for JS interview](https://github.com/adam-s/js-interview-review)
+* [Learn Anything](https://codedamn.com/)
+* [20 Guides for Front-End-Devs](https://www.sitepoint.com/20-docs-guides-front-end-developers-9/)
+* [JWT in JS](https://codeburst.io/part-1-jwt-to-authenticate-downloadable-files-at-client-8e0b979c9ac1)
+* [HEAD in HTML](https://github.com/joshbuchea/HEAD)
+
+
 ## [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
 * Covers quirky parts of JS, gives advice on how to avoid common mistakes and subtle bugs, as well as performance issues and bad practices
@@ -14,14 +26,3 @@
     * MDN docs
     * Dive into the code
     * Stackoverflow
-
-
-## Interesting Links
-
-* [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
-* How to do form validation. [Here](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
-* [State of JS 2016](http://stateofjs.com/2016/introduction/)
-* [Prepare for JS interview](https://github.com/adam-s/js-interview-review)
-* [Learn Anything](https://codedamn.com/)
-* [20 Guides for Front-End-Devs](https://www.sitepoint.com/20-docs-guides-front-end-developers-9/)
-* [JWT in JS](https://codeburst.io/part-1-jwt-to-authenticate-downloadable-files-at-client-8e0b979c9ac1)
