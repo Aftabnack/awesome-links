@@ -18,6 +18,7 @@
 
 ## Interesting Links
 
+* [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
 * How to do form validation. [Here](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
 * [State of JS 2016](http://stateofjs.com/2016/introduction/)
 * [Prepare for JS interview](https://github.com/adam-s/js-interview-review)
