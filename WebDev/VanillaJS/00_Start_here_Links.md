@@ -8,6 +8,7 @@
 * [20 Guides for Front-End-Devs](https://www.sitepoint.com/20-docs-guides-front-end-developers-9/)
 * [JWT in JS](https://codeburst.io/part-1-jwt-to-authenticate-downloadable-files-at-client-8e0b979c9ac1)
 * [HEAD in HTML](https://github.com/joshbuchea/HEAD)
+* [Be a better NodeJS developer](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
 
 
 ## [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
