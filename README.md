@@ -20,6 +20,18 @@
     * [ESLint](WebDev/VanillaJS/ESLint.md)
     * [Babel](WebDev/VanillaJS/Babel.md)
     * [Webpack](WebDev/VanillaJS/Webpack.md)
+    
+---
+
+* [React folder](WebDev/React)
+    * [Writing Async code in React](WebDev/React/Async_code.md)
+    * [React Internal Workings](WebDev/React/ReactInternalWorking.md)
+    * [Measuring perf](WebDev/React/Perf.md)
+    * [Migrating react codebase](WebDev/React/Migrations.md)
+    * [New things to try out](WebDev/React/ReactWorld.md)
+    * [React Boilerplate breakdown](WebDev/React/React_Boilerplate.md)
+    * [Testing](WebDev/React/Testing.md)
+    * [Random Links](WebDev/React/RandomLinks.md)
 
 ---
 
@@ -40,18 +52,6 @@
     * [React](WebDev/StackOverflow/React.md)
     * [Babel](WebDev/StackOverflow/Babel.md)
     * [Plain JS](WebDev/StackOverflow/VanillaJS.md)
-
----
-
-* [React folder](WebDev/React)
-    * [Writing Async code in React](WebDev/React/Async_code.md)
-    * [React Internal Workings](WebDev/React/ReactInternalWorking.md)
-    * [Measuring perf](WebDev/React/Perf.md)
-    * [Migrating react codebase](WebDev/React/Migrations.md)
-    * [New things to try out](WebDev/React/ReactWorld.md)
-    * [React Boilerplate breakdown](WebDev/React/React_Boilerplate.md)
-    * [Testing](WebDev/React/Testing.md)
-    * [Random Links](WebDev/React/RandomLinks.md)
 
 * [Linux Folder](Linux)
    * [Terminal](Linux/Terminal.md)
