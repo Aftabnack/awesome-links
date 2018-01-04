@@ -11,7 +11,7 @@
 ---
 
 * [Plain JS folder](WebDev/VanillaJS)
-    * [Must open links](WebDev/VanillaJS/00_Start_here_Links.md)
+    * [**MUST OPEN LINKS**](WebDev/VanillaJS/00_Start_here_Links.md)
     * [ES6](WebDev/VanillaJS/ES6.md)
     * [Babel](WebDev/VanillaJS/Babel.md)
     * [Webpack](WebDev/VanillaJS/Webpack.md)
