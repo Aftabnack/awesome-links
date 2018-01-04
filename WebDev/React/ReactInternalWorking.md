@@ -1,3 +1,12 @@
+# Contribute to React
+
+* [Codebase Overview](https://reactjs.org/docs/codebase-overview.html)
+* [How to Contribute](https://reactjs.org/docs/how-to-contribute.html)
+* [Reconciliation](https://reactjs.org/docs/reconciliation.html)
+* Make a custom react renderer. [Guide](https://github.com/nitin42/Making-a-custom-React-renderer)
+
+---
+
 ### Detailed explaination of React inner workings [here](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
 
 
@@ -18,7 +27,3 @@
 ### Dan's notes. [Here](https://raw.githubusercontent.com/Aftabnack/AwesomeLinks/master/WebDev/React/FiberNotes.jpg)
 
 ### Sebastian explaining the core React Fiber principles. [Link](https://github.com/facebook/react/issues/7942)
-
-### Contribute to React [Preface](https://reactjs.org/docs/how-to-contribute.html)
-
-### Make a custom react renderer. [Guide](https://github.com/nitin42/Making-a-custom-React-renderer)
