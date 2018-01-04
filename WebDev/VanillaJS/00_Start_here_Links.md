@@ -1,5 +1,6 @@
 ## Interesting Links
 
+* [Be a top developer by building these apps](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 * [HEAD in HTML](https://github.com/joshbuchea/HEAD)
 * [Be a better NodeJS developer](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
 * [Frontend Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
