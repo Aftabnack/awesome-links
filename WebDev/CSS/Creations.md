@@ -4,3 +4,4 @@
 * [Making a cube](https://css-tricks.com/simplifying-css-cubes-custom-properties/)
 * [CSS crossword](https://www.sitepoint.com/how-built-pure-css-crossword-puzzle/)
 * [Callout box](https://codepen.io/depthdev/pen/wiIsv)
+* [Repo of CSS/HTML creations, no JS](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
