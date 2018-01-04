@@ -1,4 +1,7 @@
-## Custom linting rules for ESLint
+## [Configuring ESLint](https://eslint.org/docs/user-guide/configuring)
+
+
+## Writing custom linting rules for ESLint
 
 > It is fairly straightforward writing custom rules for ESLint.
 
