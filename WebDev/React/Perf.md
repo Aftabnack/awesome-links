@@ -10,5 +10,16 @@
 
 ---
 
+## Improving the performance in react app
+
+* All the inline-functions, functions used with bind, variable defaults like ` x || []`, functions whose return value is directly sent as props will create new reference, hence `shouldComponentUpdate` will always return true.
+* To solve this, you can declare them as consts (For the 1st 3 cases), use [`reselect`](https://github.com/reactjs/reselect) which memoises the previous inputs and caches the result for it (For the last case).
+
+* [Detailed Article](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f)
+
+---
+
+> The below two links are obsolete, since `react-addons-perf` don't work with React 16
+
 * [Improve perf part 1](http://benchling.engineering/performance-engineering-with-react/)
 * [Improve perf part 2](http://benchling.engineering/deep-dive-react-perf-debugging/)
