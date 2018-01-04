@@ -7,7 +7,6 @@
 * [App Deployment](WebDev/App_Deploy.md)
 * [WebApp UI design](WebDev/Design.md)
 * [Code Editor setup](WebDev/CodeEditor.md)
-* [Webpack](WebDev/Webpack.md)
 
 ---
 
@@ -18,6 +17,8 @@
     * [Must watch links](WebDev/VanillaJS/Interesting_Links.md)
     * [Offline webapps](WebDev/VanillaJS/Offline_WebApps.md)
     * [ESLint](WebDev/VanillaJS/ESLint.md)
+    * [Babel](WebDev/VanillaJS/Babel.md)
+    * [Webpack](WebDev/VanillaJS/Webpack.md)
 
 ---
 
