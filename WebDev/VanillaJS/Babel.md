@@ -17,5 +17,6 @@
 #### Writing Custom Babel plugin
 
 * [Complete guide](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md)
+* [Example on Sitepoint](https://www.sitepoint.com/understanding-asts-building-babel-plugin/)
 * [Understand babel's AST](https://astexplorer.net/), it uses [babylon parser](https://github.com/babel/babel/tree/master/packages/babylon) by default
 * [Understand the babel type helpers](https://github.com/babel/babel/tree/master/packages/babel-types)
