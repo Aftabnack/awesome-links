@@ -24,13 +24,15 @@
 ---
 
 * [React folder](WebDev/React)
-    * [Writing Async code in React](WebDev/React/Async_code.md)
+    * [React Docs](https://reactjs.org/)
+    * [React Guide](https://reactjs.org/docs/hello-world.html)
     * [React Internal Workings](WebDev/React/ReactInternalWorking.md)
     * [Measuring perf](WebDev/React/Perf.md)
-    * [Migrating react codebase](WebDev/React/Migrations.md)
+    * [Writing Async code in React](WebDev/React/Async_code.md)
     * [New things to try out](WebDev/React/ReactWorld.md)
     * [React Boilerplate breakdown](WebDev/React/React_Boilerplate.md)
     * [Testing](WebDev/React/Testing.md)
+    * [Migrating react codebase](WebDev/React/Migrations.md)
     * [Random Links](WebDev/React/RandomLinks.md)
 
 ---
