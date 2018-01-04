@@ -21,3 +21,5 @@
 * How to do form validation. [Here](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
 * [State of JS 2016](http://stateofjs.com/2016/introduction/)
 * [Prepare for JS interview](https://github.com/adam-s/js-interview-review)
+* [Learn Anything](https://codedamn.com/)
+* [ES6 Features](http://es6-features.org/#Constants)
