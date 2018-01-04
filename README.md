@@ -34,11 +34,10 @@
     * [React Internal Workings](WebDev/React/ReactInternalWorking.md)
     * [Measuring perf](WebDev/React/Perf.md)
     * [Writing Async code in React](WebDev/React/Async_code.md)
-    * [New things to try out](WebDev/React/ReactWorld.md)
-    * [React Boilerplate breakdown](WebDev/React/React_Boilerplate.md)
+    * [New things to try out](WebDev/React/React_ecosystem.md)
     * [Testing](WebDev/React/Testing.md)
     * [Migrating react codebase](WebDev/React/Migrations.md)
-    * [Random Links](WebDev/React/RandomLinks.md)
+    * [React Revisit](WebDev/React/React_Revisit.md)
 
 ---
 
