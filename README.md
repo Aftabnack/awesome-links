@@ -11,11 +11,11 @@
 ---
 
 * [Plain JS folder](WebDev/VanillaJS)
+    * [Must open links](WebDev/VanillaJS/00_Start_here_Links.md)
     * [Build a CLI for nodeJS](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/)
     * [Async Await](WebDev/VanillaJS/AsyncAwait.md)
     * [Cool Console stuff](WebDev/VanillaJS/Console.md)
     * [Web developer avenues](WebDev/VanillaJS/Developer_Tracks.md)
-    * [Must watch links](WebDev/VanillaJS/Interesting_Links.md)
     * [Offline webapps](WebDev/VanillaJS/Offline_WebApps.md)
     * [ESLint](WebDev/VanillaJS/ESLint.md)
     * [Babel](WebDev/VanillaJS/Babel.md)
