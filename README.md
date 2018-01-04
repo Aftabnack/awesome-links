@@ -12,14 +12,15 @@
 
 * [Plain JS folder](WebDev/VanillaJS)
     * [Must open links](WebDev/VanillaJS/00_Start_here_Links.md)
+    * [Babel](WebDev/VanillaJS/Babel.md)
+    * [Webpack](WebDev/VanillaJS/Webpack.md)
+    * [ESLint](WebDev/VanillaJS/ESLint.md)
     * [Build a CLI for nodeJS](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/)
     * [Async Await](WebDev/VanillaJS/AsyncAwait.md)
     * [Cool Console stuff](WebDev/VanillaJS/Console.md)
     * [Web developer avenues](WebDev/VanillaJS/Developer_Tracks.md)
     * [Offline webapps](WebDev/VanillaJS/Offline_WebApps.md)
-    * [ESLint](WebDev/VanillaJS/ESLint.md)
-    * [Babel](WebDev/VanillaJS/Babel.md)
-    * [Webpack](WebDev/VanillaJS/Webpack.md)
+    * [How Browser works](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
     
 ---
 
@@ -38,13 +39,14 @@
 ---
 
 * [CSS folder](WebDev/CSS)
-    * [Interesting creations](WebDev/CSS/Creations.md)
     * [FlexBox](WebDev/CSS/FlexBox.md)
     * [Grid](WebDev/CSS/Grid.md)
+    * [Resources](WebDev/CSS/Bibliography.md)
+    * [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
+    * [Interesting creations](WebDev/CSS/Creations.md)
     * [SVG Creations](WebDev/CSS/SVG-Creations.md)
     * [SVG Patterns](WebDev/CSS/SVG-Patterns.md)
     * [Latest developments](WebDev/CSS/Latest.md)
-    * [Resources](WebDev/CSS/Bibliography.md)
 
 > [CSS Survey 2017](https://www.sitepoint.com/results-ultimate-css-survey-2017/)
 
