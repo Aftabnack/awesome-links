@@ -23,3 +23,4 @@
 * [Prepare for JS interview](https://github.com/adam-s/js-interview-review)
 * [Learn Anything](https://codedamn.com/)
 * [20 Guides for Front-End-Devs](https://www.sitepoint.com/20-docs-guides-front-end-developers-9/)
+* [JWT in JS](https://codeburst.io/part-1-jwt-to-authenticate-downloadable-files-at-client-8e0b979c9ac1)
