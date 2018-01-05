@@ -14,6 +14,7 @@
 * How to do form validation. [Here](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
 * [JWT in JS](https://codeburst.io/part-1-jwt-to-authenticate-downloadable-files-at-client-8e0b979c9ac1)
 * [Paper CSS](https://medium.freecodecamp.org/how-i-built-and-deployed-papercss-and-got-125-stars-on-github-the-first-week-89f8d6ac14b1)
+* [Things to look forward to in 2018 JS](https://x-team.com/blog/top-javascript-trends-2018/)
 
 ## [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
