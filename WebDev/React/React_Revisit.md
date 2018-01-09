@@ -6,6 +6,11 @@
 * `ref` can take a function which will give you access to DOMNode/component's this, which you can save in a variable on this!
 * You can declare class properties which can hold stuff like `state` - And this initialization happens after `constructor` is called, so you will also have `this.props` available to you
 
+**Props vs State is a common argument in React world**
+
+* [Uber's guide](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
+* http://lucybain.com/blog/2016/react-state-vs-pros/
+
 #### Bibliography
 
 * [React basics course by Kent.C.Dodds](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
