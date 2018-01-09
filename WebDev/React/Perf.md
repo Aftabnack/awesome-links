@@ -19,6 +19,10 @@
 
 ---
 
+* [Perf tuning a React App](https://codeburst.io/performance-tuning-a-react-application-f480f46dc1a2)
+
+---
+
 > The below two links are obsolete, since `react-addons-perf` don't work with React 16
 
 * [Improve perf part 1](http://benchling.engineering/performance-engineering-with-react/)
