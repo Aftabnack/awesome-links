@@ -11,6 +11,10 @@
 * [Uber's guide](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
 * http://lucybain.com/blog/2016/react-state-vs-pros/
 
+**Transitions in React**
+
+* [Fade transition component](https://codesandbox.io/embed/y26rj99yov?codemirror=1)
+
 #### Bibliography
 
 * [React basics course by Kent.C.Dodds](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
