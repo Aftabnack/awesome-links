@@ -3,6 +3,7 @@
 * [Codebase Overview](https://reactjs.org/docs/codebase-overview.html)
 * [How to Contribute](https://reactjs.org/docs/how-to-contribute.html)
 * [Reconciliation](https://reactjs.org/docs/reconciliation.html)
+* [Events explained](https://levelup.gitconnected.com/how-exactly-does-react-handles-events-71e8b5e359f2)
 * Make a custom react renderer. [Guide](https://github.com/nitin42/Making-a-custom-React-renderer)
 
 ---
