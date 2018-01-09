@@ -20,7 +20,7 @@
 ---
 
 * [Perf tuning a React App](https://codeburst.io/performance-tuning-a-react-application-f480f46dc1a2)
-* [Speeding up your app](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+* [Cost of JS](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 * [Critical Request](https://css-tricks.com/the-critical-request/)
 
 ---
