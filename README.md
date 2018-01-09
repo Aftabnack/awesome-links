@@ -33,7 +33,7 @@
     * [Collection of React links](https://github.com/enaqx/awesome-react)
     * [React Internal Workings](WebDev/React/ReactInternalWorking.md)
     * [Measuring perf](WebDev/React/Perf.md)
-    * [Writing Async code in React](WebDev/React/Async_code.md)
+    * [Async in React](WebDev/React/Async_code.md)
     * [**New things to try out**](WebDev/React/React_ecosystem.md)
     * [Testing](WebDev/React/Testing.md)
     * [Migrating react codebase](WebDev/React/Migrations.md)
