@@ -19,6 +19,7 @@
 * [How to do form validation](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
 * [JWT in JS](https://codeburst.io/part-1-jwt-to-authenticate-downloadable-files-at-client-8e0b979c9ac1)
 * [Paper CSS](https://medium.freecodecamp.org/how-i-built-and-deployed-papercss-and-got-125-stars-on-github-the-first-week-89f8d6ac14b1)
+* [Object Proxies](https://blog.campvanilla.com/advanced-guide-javascript-proxy-objects-introduction-301c0fce9432)
 * [Things to look forward to in 2018 JS](https://x-team.com/blog/top-javascript-trends-2018/)
 * [Google Web standards](https://developers.google.com/web/)
 * [HTTP/2 push](https://blog.risingstack.com/node-js-http-2-push/)
