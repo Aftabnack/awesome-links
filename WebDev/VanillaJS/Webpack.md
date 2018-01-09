@@ -17,3 +17,7 @@
 * Complete Documentation can be found [here](https://webpack.js.org/configuration/)
 * Step by Step setup covering everything related to webpack. [Here](https://webpack.js.org/guides/)
 * Comparison with other bundlers [here](https://webpack.js.org/guides/comparison/)
+
+## Related
+
+* [`import` syntax](https://medium.com/faceyspacey/webpacks-import-will-soon-fetch-js-css-here-s-how-you-do-it-today-4eb5b4929852)
