@@ -22,6 +22,7 @@
 * [Perf tuning a React App](https://codeburst.io/performance-tuning-a-react-application-f480f46dc1a2)
 * [Cost of JS](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 * [Critical Request](https://css-tricks.com/the-critical-request/)
+* [A tinder PWA case study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
 
 ---
 
