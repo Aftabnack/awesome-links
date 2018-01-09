@@ -8,6 +8,7 @@
 * [Configuring ESLint](https://eslint.org/docs/user-guide/configuring)
 * [List of all available rules](https://eslint.org/docs/rules/)
 * [Developer Guide](https://eslint.org/docs/developer-guide/)
+* [Using ESLint with prettier](https://medium.com/@netczuk/your-last-eslint-config-9e35bace2f99)
 
 ## Writing custom linting rules for ESLint
 
