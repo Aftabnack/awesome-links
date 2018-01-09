@@ -8,3 +8,4 @@
 * [Spinners](http://tawian.io/text-spinners/)
 * [Top pens of 2017](https://codepen.io/2017/popular/pens/)
 * [Repo of CSS/HTML creations, no JS](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+* [CSS only loader](https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c)
