@@ -46,7 +46,7 @@
     * [Grid](WebDev/CSS/Grid.md)
     * [Animation techniques](https://uxplanet.org/popular-web-animation-techniques-a6a467309028)
     * [PostCSS](WebDev/CSS/PostCSS.md)
-    * [Resources](WebDev/CSS/Bibliography.md)
+    * [Must visit links](WebDev/CSS/Bibliography.md)
     * [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
     * [Interesting creations](WebDev/CSS/Creations.md)
     * [SVG Creations](WebDev/CSS/SVG-Creations.md)
