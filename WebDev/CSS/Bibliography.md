@@ -7,7 +7,6 @@
 
 ## Important links
 
-* [Critical Request](https://css-tricks.com/the-critical-request/)
 * [Firefox's CSS engine](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
 * [Reboot.css](https://scotch.io/tutorials/a-look-at-bootstrap-4s-new-reset-rebootcss)
 * [Reduce CSS bundle size](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b)
