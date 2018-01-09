@@ -21,3 +21,4 @@
 ## Related
 
 * [`import` syntax](https://medium.com/faceyspacey/webpacks-import-will-soon-fetch-js-css-here-s-how-you-do-it-today-4eb5b4929852)
+* [`script type=module` & `script nomodule` config](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
