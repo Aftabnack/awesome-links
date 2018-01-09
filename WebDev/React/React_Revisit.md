@@ -11,3 +11,4 @@
 * [React basics course by Kent.C.Dodds](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
 * [Advanced React Course by Kent.C.Dodds](https://egghead.io/courses/advanced-react-component-patterns)
 * [Advanced React Concepts](https://engineering.opsgenie.com/you-learned-the-basics-of-react-now-what-389e69be3c5a)
+* [8 key decisions for a React project](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
