@@ -10,3 +10,4 @@
 * [Color Theory](https://tallys.github.io/color-theory/)
 * [Color Theme picker](http://colorsupplyyy.com/app/)
 * [Free Vector Silhouettes](https://en.silhouette-ac.com/)
+* [Gradient creator](https://gradients.cssgears.com/)
