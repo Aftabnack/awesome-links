@@ -14,6 +14,7 @@
 
 ## Interesting Links
 
+* [Robust Javascript](https://molily.de/robust-javascript/)
 * [How JS works](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 * [Project Guidelines](https://github.com/wearehive/project-guidelines/blob/master/README.md)
 * [State of JS 2016](http://stateofjs.com/2016/introduction/)
