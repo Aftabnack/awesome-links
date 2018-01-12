@@ -1,8 +1,8 @@
 ## Learn
 
 * [You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
-* [Exploring JS](http://exploringjs.com/)
 * [Javascript.info](https://javascript.info/)
+* [Exploring JS](http://exploringjs.com/)
 * [EBook Foundation](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [Be a top developer by building these apps](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 * [HEAD in HTML](https://github.com/joshbuchea/HEAD)
