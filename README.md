@@ -12,6 +12,7 @@
 
 * [Plain JS folder](WebDev/VanillaJS)
     * [**MUST OPEN LINKS**](WebDev/VanillaJS/00_Start_here_Links.md)
+    * [Modern JS cheatsheet (JS summary)](https://github.com/mbeaudru/modern-js-cheatsheet)
     * [ES6](WebDev/VanillaJS/ES6.md)
     * [Babel](WebDev/VanillaJS/Babel.md)
     * [Webpack](WebDev/VanillaJS/Webpack.md)
