@@ -27,6 +27,7 @@
 * [Google Web standards](https://developers.google.com/web/)
 * [HTTP/2 push](https://blog.risingstack.com/node-js-http-2-push/)
 * [Web Assembly](https://blog.acolyer.org/2017/09/18/bringing-the-web-up-to-speed-with-webassembly/#ampshare=https://blog.acolyer.org/2017/09/18/bringing-the-web-up-to-speed-with-webassembly/)
+* [Web Scraping](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921)
 
 ## [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
