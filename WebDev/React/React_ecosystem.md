@@ -94,4 +94,6 @@ export default Button;
   ---
   
   * [Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
+  * [GraphQL stack - how everything fits together](https://dev-blog.apollodata.com/the-graphql-stack-how-everything-fits-together-35f8bf34f841)
   * [Apollo Client - future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2)
+  * [Apollo Client 2.0](https://dev-blog.apollodata.com/apollo-client-2-0-5c8d0affcec7)
