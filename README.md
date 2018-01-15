@@ -43,6 +43,7 @@
 ---
 
 * [CSS folder](WebDev/CSS)
+    * [CSS Cheatsheet](https://adam-marsden.co.uk/css-cheat-sheet)
     * [FlexBox](WebDev/CSS/FlexBox.md)
     * [Grid](WebDev/CSS/Grid.md)
     * [Animation techniques](https://uxplanet.org/popular-web-animation-techniques-a6a467309028)
