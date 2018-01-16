@@ -12,3 +12,4 @@
 * [LearnCSS Grid](http://learncssgrid.com/)
 * [List of resources](https://hackernoon.com/getting-started-with-css-grid-layout-8e00de547daf)
 * [Making a bar chart with Grid](https://css-tricks.com/making-a-bar-chart-with-css-grid/)
+* [Responsiveness with grid](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)
