@@ -13,3 +13,5 @@
 * [List of resources](https://hackernoon.com/getting-started-with-css-grid-layout-8e00de547daf)
 * [Making a bar chart with Grid](https://css-tricks.com/making-a-bar-chart-with-css-grid/)
 * [Responsiveness with grid](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)
+* [CSS Grid + CSS columns](https://medium.com/@patrickbrosset/css-grid-css-multi-columns-7664f59bb60c)
+* [Grid vs Flexbox](https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf)
