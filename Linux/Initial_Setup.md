@@ -13,6 +13,8 @@
 * [NVM](https://github.com/creationix/nvm#installation)
 * [VS Code](https://github.com/Aftabnack/awesome-links/blob/master/WebDev/CodeEditor.md#visual-studio-code)
 
+> Npm global installs: `yarn` `node-check-updates`
+
 ## Other global settings
 
 * [Gnome shell integration](https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome/Installation)
