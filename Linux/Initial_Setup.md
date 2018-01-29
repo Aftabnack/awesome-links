@@ -4,6 +4,7 @@
 * Update apt sources: `sudo apt-get update`
 * Update already installed packages: `sudo apt-get upgrade`
 * Reboot maybe required since kernel would have also updated
+* Restore backup
 
 ## Installing softwares
 
