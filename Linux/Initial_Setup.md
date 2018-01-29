@@ -22,3 +22,11 @@
 
 * Appearance > Themes > Applications = `Radiance`
 * Top Bar > [Battery %age, Date, Seconds] = toggle to on
+* Workspaces
+  * Change to static workspaces
+  * Change to "workspances span displays"
+  * Set the number of workspaces to 4.
+* Extensions
+  * Workspace grid settings
+    * Number of rows and columns to 2
+    * All toggles to off
