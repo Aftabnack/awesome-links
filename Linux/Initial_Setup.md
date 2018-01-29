@@ -8,7 +8,7 @@
 
 ## Installing softwares
 
-* Direct install `sudo apt-get install git vlc gimp curl gnome-tweak-tool htop fonts-inconsolata`
+* Direct install `sudo apt-get install git vlc gimp curl build-essential gnome-tweak-tool htop fonts-inconsolata`
 * [Chrome](https://www.ubuntuupdates.org/ppa/google_chrome?dist=stable)
 * [NVM](https://github.com/creationix/nvm#installation)
 * [VS Code](https://github.com/Aftabnack/awesome-links/blob/master/WebDev/CodeEditor.md#visual-studio-code)
