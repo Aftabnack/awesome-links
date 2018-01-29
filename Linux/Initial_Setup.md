@@ -12,3 +12,7 @@
 * [Chrome](https://www.ubuntuupdates.org/ppa/google_chrome?dist=stable)
 * [NVM](https://github.com/creationix/nvm#installation)
 * [VS Code](https://github.com/Aftabnack/awesome-links/blob/master/WebDev/CodeEditor.md#visual-studio-code)
+
+## Other global settings
+
+* [Workspace extension](https://extensions.gnome.org/extension/484/workspace-grid/)
