@@ -13,7 +13,7 @@
 * [NVM](https://github.com/creationix/nvm#installation)
 * [VS Code](https://github.com/Aftabnack/awesome-links/blob/master/WebDev/CodeEditor.md#visual-studio-code)
 
-> Npm global installs: `yarn` `node-check-updates`
+> Npm global installs: `yarn` `npm-check-updates`
 
 ## Other global settings
 
@@ -32,3 +32,12 @@
   * Workspace grid settings
     * Number of rows and columns to 2
     * All toggles to off
+
+
+## Git global settings
+
+```
+git config --global user.name "Aftabnack"
+aftab@winterfell:~/mine/code$ git config --global user.email "aftabnack@gmail.com"
+aftab@winterfell:~/mine/code$ git config --global credential.helper store
+```
