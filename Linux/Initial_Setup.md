@@ -1,6 +1,6 @@
 ## Initial Cleanup
 
-* Removing useless software: `sudo apt-get remove thunderbird rhythmbox shotwell aisleriot`
+* Removing useless software: `sudo apt-get remove thunderbird rhythmbox shotwell aisleriot totem`
 * Update apt sources: `sudo apt-get update`
 * Update already installed packages: `sudo apt-get upgrade`
 * Reboot maybe required since kernel would have also updated
