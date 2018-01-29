@@ -7,6 +7,7 @@
 * [App Deployment](WebDev/App_Deploy.md)
 * [WebApp UI design](WebDev/Design.md)
 * [Code Editor setup](WebDev/CodeEditor.md)
+* [List of public APIs](https://github.com/toddmotto/public-apis)
 
 ---
 
