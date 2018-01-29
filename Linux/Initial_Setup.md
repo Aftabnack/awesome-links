@@ -38,6 +38,6 @@
 
 ```
 git config --global user.name "Aftabnack"
-aftab@winterfell:~/mine/code$ git config --global user.email "aftabnack@gmail.com"
-aftab@winterfell:~/mine/code$ git config --global credential.helper store
+git config --global user.email "aftabnack@gmail.com"
+git config --global credential.helper store
 ```
