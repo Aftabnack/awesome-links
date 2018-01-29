@@ -12,7 +12,7 @@
 * `npm`
 * `Open in browser`
 * `Path intellisense`
-* `Prettier`
+* `Prettier` -> Also set `editor.formatOnSave: true`
 * `Settings sync`
 * `vscode-icons`
 
