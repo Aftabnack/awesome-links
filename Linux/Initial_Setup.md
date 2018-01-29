@@ -11,3 +11,4 @@
 * Direct install `sudo apt-get install vlc gimp curl gnome-tweak-tool htop`
 * [Chrome](https://www.ubuntuupdates.org/ppa/google_chrome?dist=stable)
 * [NVM](https://github.com/creationix/nvm#installation)
+* [VS Code](https://github.com/Aftabnack/awesome-links/blob/master/WebDev/CodeEditor.md#visual-studio-code)
