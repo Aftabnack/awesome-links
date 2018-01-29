@@ -15,4 +15,5 @@
 
 ## Other global settings
 
+* [Gnome shell integration](https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome/Installation)
 * [Workspace extension](https://extensions.gnome.org/extension/484/workspace-grid/)
