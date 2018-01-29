@@ -17,3 +17,7 @@
 
 * [Gnome shell integration](https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome/Installation)
 * [Workspace extension](https://extensions.gnome.org/extension/484/workspace-grid/)
+
+## Gnome Tweak tool
+
+* Appearance > Themes > Applications = `Radiance`
