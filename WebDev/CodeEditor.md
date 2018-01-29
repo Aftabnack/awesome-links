@@ -1,4 +1,4 @@
-## Visual Studio COde
+## Visual Studio Code (Current Fav)
 
 > Installation: https://code.visualstudio.com/docs/setup/linux#_installation
 
@@ -75,7 +75,7 @@
       ]
 ```
 
-## Sublime Text - Editor of choice for web dev
+## Sublime Text
 
 > Following are the plugins that makes the life easier for development
 
