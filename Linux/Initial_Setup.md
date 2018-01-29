@@ -21,3 +21,4 @@
 ## Gnome Tweak tool
 
 * Appearance > Themes > Applications = `Radiance`
+* Top Bar > [Battery %age, Date, Seconds] = toggle to on
