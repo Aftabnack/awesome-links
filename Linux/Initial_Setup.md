@@ -8,7 +8,7 @@
 
 ## Installing softwares
 
-* Direct install `sudo apt-get install git vlc gimp curl build-essential libssl-dev gnome-tweak-tool htop fonts-inconsolata`
+* Direct install `sudo apt-get install git vlc gimp curl build-essential libssl-dev gnome-tweak-tool htop fonts-inconsolata default-jdk`
 * [Chrome](https://www.ubuntuupdates.org/ppa/google_chrome?dist=stable)
 * [NVM](https://github.com/creationix/nvm#installation)
 * [VS Code](https://github.com/Aftabnack/awesome-links/blob/master/WebDev/CodeEditor.md#visual-studio-code)
@@ -46,3 +46,15 @@ git config --global user.name "Aftabnack"
 git config --global user.email "aftabnack@gmail.com"
 git config --global credential.helper store
 ```
+
+## Starting counter-strike
+
+* Install wine `sudo apt-get install wine-stable`
+* Install the game by exe `wine Counter-Strike.exe`
+* Go into the counter-strike folder `cd ~/.wine/drive_c/Games/Counter-Strike`
+* Configure the display settings `winecfg`
+  * Go to `Graphics` -> select `Emulate a virtual desktop` -> Set resolution to something like 1024X768
+  * Close the config
+* Start the game with the following flags `wine hl.exe -steam\ -game\ cstrike\ -noipx\ -nojoy\ -noforcemparms\ -noforcemaccel\`
+* Set the video options to `Software` and select the above set resultion, make the display `normal`. Apply and restart.
+* Options -> Advanced -> Weapon Alignments
