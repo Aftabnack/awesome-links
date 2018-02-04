@@ -56,5 +56,5 @@ git config --global credential.helper store
   * Go to `Graphics` -> select `Emulate a virtual desktop` -> Set resolution to something like 1024X768
   * Close the config
 * Start the game with the following flags `wine hl.exe -steam\ -game\ cstrike\ -noipx\ -nojoy\ -noforcemparms\ -noforcemaccel\`
-* Set the video options to `Software` and select the above set resultion, make the display `normal`. Apply and restart.
-* Options -> Advanced -> Weapon Alignments
+* Set the video options to `OpenGL` and select the above set resultion, make the display `normal`. Apply and restart.
+* Options -> Advanced -> Weapon Alignments or `cl_righthand 1` in the command terminal
