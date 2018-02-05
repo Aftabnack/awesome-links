@@ -1,6 +1,7 @@
 ## Visual Studio Code (Current Fav)
 
-> Installation: https://code.visualstudio.com/docs/setup/linux#_installation
+> Installation: https://code.visualstudio.com/docs/setup/linux#_installation <br>
+> http://vscodecandothat.com/
 
 > Recommended Packages
 
