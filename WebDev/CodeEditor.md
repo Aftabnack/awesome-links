@@ -17,12 +17,11 @@
 * `Settings sync`
 * `vscode-icons`
 
-> Custom Syntax higlighting
+> Custom file Syntax higlighting
 
 ```
 "files.associations": {
-        "*.phnx": "javascript",
-        "*.phnxapp": "javascript"
+        "*.abcd": "javascript"
     }
 ```
 
