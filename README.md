@@ -26,6 +26,7 @@
     * [Web developer avenues](https://github.com/kamranahmedse/developer-roadmap)
     * [Offline webapps](WebDev/VanillaJS/Offline_WebApps.md)
     * [How Browser works](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+    * [Front End case studies](https://github.com/andrew--r/frontend-case-studies)
     
 ---
 
