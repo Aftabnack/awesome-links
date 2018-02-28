@@ -4,7 +4,8 @@
 * [How to Contribute](https://reactjs.org/docs/how-to-contribute.html)
 * [Reconciliation](https://reactjs.org/docs/reconciliation.html)
 * [Events explained](https://levelup.gitconnected.com/how-exactly-does-react-handles-events-71e8b5e359f2)
-* Make a custom react renderer. [Guide](https://github.com/nitin42/Making-a-custom-React-renderer)
+* [Make a custom react renderer](https://github.com/nitin42/Making-a-custom-React-renderer)
+* [Series of code readings of react codebase](https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-i-80263fe46cf1)
 
 ---
 
