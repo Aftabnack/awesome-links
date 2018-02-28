@@ -18,6 +18,9 @@
 * Step by Step setup covering everything related to webpack. [Here](https://webpack.js.org/guides/)
 * Comparison with other bundlers [here](https://webpack.js.org/guides/comparison/)
 
+* [Webpack 4 Code chunking explaination](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366)
+* [Webpack 4 for React](https://medium.freecodecamp.org/learn-webpack-for-react-a36d4cac5060)
+
 ## Related
 
 * [`import` syntax](https://medium.com/faceyspacey/webpacks-import-will-soon-fetch-js-css-here-s-how-you-do-it-today-4eb5b4929852)
