@@ -10,3 +10,4 @@
 * [Repo of CSS/HTML creations, no JS](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 * [CSS only loader](https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c)
 * [2 circle loader](https://codeburst.io/100-lines-of-code-4-rectangles-2-circles-1-react-svg-loading-spinner-518ed4d14280)
+* [Knockout text](https://css-tricks.com/css-techniques-and-effects-for-knockout-text/)
