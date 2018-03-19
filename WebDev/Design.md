@@ -1,3 +1,8 @@
+## Thinking design
+
+* [Quick Tips for UI design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+
+
 **This file will contain design related links**
 
 * [Survey of design tools](https://uxtools.co/survey-2017)
