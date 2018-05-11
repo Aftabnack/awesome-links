@@ -54,7 +54,7 @@
     * [PostCSS](WebDev/CSS/PostCSS.md)
     * [Must visit links](WebDev/CSS/Bibliography.md)
     * [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
-    * [Interesting creations](WebDev/CSS/Creations.md)
+    * [Interesting CSS creations](WebDev/CSS/Creations.md)
     * [SVG Creations](WebDev/CSS/SVG-Creations.md)
     * [SVG Patterns](WebDev/CSS/SVG-Patterns.md)
     * [Latest developments](WebDev/CSS/Latest.md)
