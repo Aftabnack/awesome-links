@@ -26,3 +26,7 @@ test('title', () => {
 
 * Using `textContent` instead of `innerHTML` will not care whether you wrap text in any number of elems
 * Using `toMatch` instead of `toEqual` when you start writing tests and then change it to make it more specific when necessary.
+* Do not use any library that encourages you to write test cases in a manner in which you would have to unnecessarily make changes to your source code. `Shallow` from enzyme is an example.
+* Very tightly coupled test cases where `Shallow` are used is not good, since even minor meaningful refactor of the code needs us to change the test cases which are worthless
+* It is okay to not write perfectly isolated unit test cases
+* What you should be testing is the behaviour/expected change and not the implementation detail.
