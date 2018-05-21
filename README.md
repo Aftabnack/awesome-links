@@ -41,6 +41,7 @@
     * [Async in React](WebDev/React/Async_code.md)
     * [**New things to try out**](WebDev/React/React_ecosystem.md)
     * [Testing](WebDev/React/Testing.md)
+    * [Testing workshop](WebDev/React/TestingWorkshop.md)
     * [Migrating react codebase](WebDev/React/Migrations.md)
     * [React Revisit](WebDev/React/React_Revisit.md)
 
