@@ -13,6 +13,7 @@
 
 * [Plain JS folder](WebDev/VanillaJS)
     * [**MUST OPEN LINKS**](WebDev/VanillaJS/00_Start_here_Links.md)
+    * [Codeburst links collection](https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458)
     * [Modern JS cheatsheet (JS summary)](https://github.com/mbeaudru/modern-js-cheatsheet)
     * [Explaination of Sourcemaps](https://blog.bugsnag.com/source-maps/)
     * [ES6](WebDev/VanillaJS/ES6.md)
