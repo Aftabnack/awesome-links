@@ -2,7 +2,8 @@
 
 This is a Go-MMT's B2B portal for hoteliers to list and sell their property on Goibibo & MakeMyTrip. There have been multiple things that I have worked upon in my tenure here. Here I will list down all the technical changes that we have done!
 
-> Below items are mentioned in Chronological order & dates mentioned are go live dates
+> * Below items are mentioned in Chronological order & dates mentioned are go live dates
+> * Product stories are intentionally not mentioned in Detail
 
 ## Technical changes
 
@@ -54,6 +55,22 @@ This is a Go-MMT's B2B portal for hoteliers to list and sell their property on G
 * Added custom proxy with which devs can choose their backend setup via `.env.development.local` - 10th May 2019
 * Circle CI integration to run build on all PRs - 7th June 2019
 * Photos optimization - lazyload with intersection observer API - 27th June 2019
+* Code performance optimizations - 9th Aug 2019 - https://github.com/goibibo/ingoibibo_extranet/pull/227
+  - 6k LOC code deleted
+  - Made initial data call async.
+  - Removed unused legacy vendor libs
+  - Removed unused font files and duplicate font files
+  - Made top level `getAllGeneralDetails` (which fetches static data for property screen) API call independant
+  - Deferred top level async calls until after the hotel change API calls are done!
+  - Prevent multiple top level re renders!!
+  - Removed jquery-ui-custom css and all related assets
+  - **Implemented code splitting for React code with React.lazy & React.Suspense**
+  - Deferred loading of a certain legacy vendor libraries until the tab it is used is opened!
+  - **The loading time of Extranet in office network now under ~1s**
+* S3 setup for Extranet **Zero Downtime deployment** - 28th Aug 2019
+* Docker size optimization by switching base to node alpine - 29th Aug 2019
+* Setup Jest + Puppeteer with running the puppeteer tests inside Docker - 16th Sep 2019
+* Setup Jest integration tests report publishing - 5th Dec 2019
 
 ## Product Stories
 
@@ -72,3 +89,9 @@ This is a Go-MMT's B2B portal for hoteliers to list and sell their property on G
 * Maintain Hotel selection & Route selection on refresh - 30th Apr 2019
 * MO API Phase 2 changes; Payment info for DCB hotels - 9th July 2019
 * Hotel level settings (Bulk uploaders for Inventory) - 15th July 2019
+* FCL in Onboarding - 5th Aug 2019
+* Inventory Optimization tabs (Sold out & Filling Fast) - 28th Aug 2019
+* GST Tax slab changes - 1st Oct 2019
+* Whatsapp Optin - 14th Oct 2019
+* Guest chat enhancements - Multiple release dates
+* Quality Score - 27th Jan 2020
