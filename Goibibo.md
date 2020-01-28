@@ -50,7 +50,7 @@ This is a Go-MMT's B2B portal for hoteliers to list and sell their property on G
   - **10k LOC more cleanup**
   - We have achieved ~35KB reduction in gzip sizes of legacy codes due to cleanup.
   - Our script parsing time has halved (From 3221ms to 1530ms)
-  - Overall load time has halved (From 4.08s to 1.95s)
+  - **Overall load time has halved (From 4.08s to 1.95s)**
   - Our rendering time (time it creates elements on UI) has reduced from 617ms to 99ms a mammoth ~80% reduction. Similar is the case with CSS application time (Painting)
 * Added custom proxy with which devs can choose their backend setup via `.env.development.local` - 10th May 2019
 * Circle CI integration to run build on all PRs - 7th June 2019
