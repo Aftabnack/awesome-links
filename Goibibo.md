@@ -72,6 +72,26 @@ This is a Go-MMT's B2B portal for hoteliers to list and sell their property on G
 * Setup Jest + Puppeteer with running the puppeteer tests inside Docker - 16th Sep 2019
 * Setup Jest integration tests report publishing - 5th Dec 2019
 
+### Proposed tech enhancements
+
+* Migrate legacy tabs - Property, PLB/Margin offers, Bookings, Ratings & Review, Reports, Invoicing (with Clear Tax)
+* Update/rewrite React code to the latest standards (Hooks, APIClient, Utils etc) - Rates & Inventory, Promotions
+* Create a core set of reusable components
+  - This also means that we throw away all CSS libraries/legacy CSS
+  - Preferable use a library which gives a lot of functionality and interactions built-in like Material UI
+  - Update the rest of the code slowly to use the core set of components
+* Common utils - Validation framework, EventBus, API Client, Logging, GTM
+* Custom hooks
+* Setup i8ln & l8ln at the top level
+* Setup a top level structure to hold info about Tab access & functionality access
+* Perf - Image Sprites, Code Splitting, Lazy loading, Prefetching, Replace libraries which are huge by smaller equivalent
+* PWA - Offline caching & Push notifications.
+* Figure out a way in which we can share contracts and it can automatically generate types for writing FE code.
+* Automated release notification mails
+* Setup performance metric collection system and historical data collection for alerting & reporting
+* Modules/No modules build output
+* Typescript
+
 ## Product Stories
 
 * House Rules (inside Property -> Policies section) - 13th Dec 2018
