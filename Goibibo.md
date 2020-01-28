@@ -25,6 +25,31 @@
   - Upgraded all packages in the repo (and made all breaking changes needed to be done)
   - Fixed all lint warnings throughout the codebase
   - **Fail production build on Lint warning**
+* Code cleanup - https://goibibo.atlassian.net/wiki/spaces/WIKI/pages/1704913/Code+Cleanup+-+22+02+2019
+  - Almost 17k LOC unused code deleted
+  - One entire CSS lib variant removed
+  - Reduced ~65k in gzipped size
+  - Load time down from ~5.5s to ~4s in office network speed
+* Webengage service worker setup
+* React router introduction - https://github.com/goibibo/ingoibibo_extranet/wiki/React-Router-Release
+  - Moved all legacy HTML present by default for all tabs into script templates
+  - Create a lean webapp shell with Header, Navigation & Content area
+  - Migrate all Tabs which were already in react to React router routes
+  - Create a thin React shell component for all legacy routes which does
+    - Restore the legacy HTML for that tab into the "Content Area"
+    - Run the legacy init function for that tab
+    - Setup a subtab click handler and all other handlers
+    - And a cleanup to clear the HTML
+  - Added a Global Loader in React
+  - Top level Error Boundary - To capture failures in React code
+  - Top level state (via Context API) and migrated all top level info to this
+  - Deep linking for Property & Analytics tabs
+  - **10k LOC more cleanup**
+  
+  - We have achieved ~35KB reduction in gzip sizes of legacy codes due to cleanup.
+  - Our script parsing time has halved (From 3221ms to 1530ms)
+  - Overall load time has halved (From 4.08s to 1.95s)
+  - Our rendering time (time it creates elements on UI) has reduced from 617ms to 99ms a mammoth ~80% reduction. Similar is the case with CSS application time (Painting)
 
 ## Product Stories (in Chronological order)
 
