@@ -71,6 +71,9 @@ This is a Go-MMT's B2B portal for hoteliers to list and sell their property on G
 * Docker size optimization by switching base to node alpine - 29th Aug 2019
 * Setup Jest + Puppeteer with running the puppeteer tests inside Docker - 16th Sep 2019
 * Setup Jest integration tests report publishing - 5th Dec 2019
+* Browser version restriction - 31st Jan 2020
+* Module bundle analyze - 31st Jan 2020
+* Multilingual dev setup + Production deployment setup with checks in place - 7th Feb 2020
 
 ### Proposed tech enhancements
 
