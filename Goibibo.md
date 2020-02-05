@@ -73,7 +73,11 @@ This is a Go-MMT's B2B portal for hoteliers to list and sell their property on G
 * Setup Jest integration tests report publishing - 5th Dec 2019
 * Browser version restriction - 31st Jan 2020
 * Module bundle analyze - 31st Jan 2020
-* Multilingual dev setup + Production deployment setup with checks in place - 7th Feb 2020
+* Multilingual dev setup + Production deployment setup with checks in place - 5th Feb 2020
+  - Dev proxy for on the fly merge and return for all JSONs for quick and easy dev
+  - Production setup to hash and merge all JSONs into just one strings.<hash>.json
+  - Hash rewrite logic to cache bust every time we update strings
+  - Production logic to validate all keys (deep level) presend in all language JSON files.
 
 ### Proposed tech enhancements
 
