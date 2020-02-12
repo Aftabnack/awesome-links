@@ -65,6 +65,7 @@ This is a Go-MMT's B2B portal for hoteliers to list and sell their property on G
   - Prevent multiple top level re renders!!
   - Removed jquery-ui-custom css and all related assets
   - **Implemented code splitting for React code with React.lazy & React.Suspense**
+  - Separated out all the legacy vendor libs which are used only in one screen and loaded them via `ScriptLoader` component, which adds all the dependant script tags and once all deps are downloaded we start showing the screens.
   - Deferred loading of a certain legacy vendor libraries until the tab it is used is opened!
   - **The loading time of Extranet in office network now under ~1s**
 * S3 setup for Extranet **Zero Downtime deployment** - 28th Aug 2019
