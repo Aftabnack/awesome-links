@@ -1,25 +1,28 @@
 ## Initial Cleanup
 
-* Removing useless software: `sudo apt-get remove thunderbird rhythmbox shotwell aisleriot totem`
-* Update apt sources: `sudo apt-get update`
-* Update already installed packages: `sudo apt-get upgrade`
+* Removing useless software: `sudo apt remove thunderbird rhythmbox shotwell aisleriot totem`
+* Update apt sources: `sudo apt update`
+* Update already installed packages: `sudo apt upgrade`
 * Reboot maybe required since kernel would have also updated
 * Restore backup
 
 ## Installing softwares
 
-* Direct install `sudo apt-get install git vlc gimp curl build-essential libssl-dev gnome-tweak-tool htop fonts-inconsolata default-jdk`
+* Direct install `sudo apt install git vlc gimp curl build-essential libssl-dev gnome-tweak-tool htop fonts-inconsolata`
 * [Chrome](https://www.ubuntuupdates.org/ppa/google_chrome?dist=stable)
 * [NVM](https://github.com/creationix/nvm#installation)
 * [VS Code](https://github.com/Aftabnack/awesome-links/blob/master/WebDev/CodeEditor.md#visual-studio-code)
 
-> Npm global installs: `yarn` `npm-check-updates`
+> Npm global installs: `yarn`
+> Npx commands: `npx npm-check-updates`, `npx create-react-app <proj>`, `npx react-native init <proj>`
+
 
 ## Other global settings
 
-* Install the gnome extensions client: `sudo apt-get install chrome-gnome-shell`
+* Install the gnome extensions client: `sudo apt install chrome-gnome-shell`
 * [Gnome shell integration](https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome/Installation)
 * [Workspace extension](https://extensions.gnome.org/extension/484/workspace-grid/)
+* [Netspeed](https://extensions.gnome.org/extension/104/netspeed/)
 * Run this to [increase the limit](http://stackoverflow.com/questions/16748737/grunt-watch-error-waiting-fatal-error-watch-enospc) on the number of files Linux will watch. [Here's why](https://github.com/coryhouse/react-slingshot/issues/6).
 
     ```
@@ -48,9 +51,32 @@ git config --global user.email "aftabnack@gmail.com"
 git config --global credential.helper store
 ```
 
+## Android tools setup required for React Native
+
+* Install some pre requisites: `sudo apt-get install libc6-dev-i386 lib32z1 openjdk-8-jdk`
+* Download CLI tools from SDK tools only section of [this page](http://developer.android.com/sdk/index.html)
+* Create a root folder `~/android`, extract the downloaded zip above, rename it to `cli`
+* The above folder will have tools folder by default with `sdkmanager`, `avdmanager` etc
+* List all available packages with `sdkmanager --list --sdk_root=/home/aftab/android/cli`
+* Run the sdkmanager to download what's necessary 
+  - A target SDK version, Android Pie at the time of writing `"platforms;android-28"`
+  - Latest platform tools `"platform-tools"`
+  - And an emulator image - Same image as target version with 64bit + GApps + Playstore
+* Run `sdkmanager "platform-tools" "platforms;android-28" --sdk_root=/home/aftab/android/cli`
+* Run `sdkmanager "system-images;android-28;google_apis_playstore;x86_64" --sdk_root=/home/aftab/android/cli`
+* Setup bash entries for all of these
+
+```
+export ANDROID_HOME=$HOME/android/cli
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/tools/bin
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+```
+
 ## Starting counter-strike
 
-* Install wine `sudo apt-get install wine-stable`
+* Install wine `sudo apt install wine-stable`
 * Install the game by exe `wine Counter-Strike.exe`
 * Go into the counter-strike folder `cd ~/.wine/drive_c/Games/Counter-Strike`
 * Configure the display settings `winecfg`
