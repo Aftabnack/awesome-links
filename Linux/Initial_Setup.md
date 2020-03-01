@@ -55,24 +55,30 @@ git config --global credential.helper store
 
 * Install some pre requisites: `sudo apt-get install libc6-dev-i386 lib32z1 openjdk-8-jdk`
 * Download CLI tools from SDK tools only section of [this page](http://developer.android.com/sdk/index.html)
-* Create a root folder `~/android`, extract the downloaded zip above, rename it to `cli`
-* The above folder will have tools folder by default with `sdkmanager`, `avdmanager` etc
-* List all available packages with `sdkmanager --list --sdk_root=/home/aftab/android/cli`
-* Run the sdkmanager to download what's necessary 
-  - A target SDK version, Android Pie at the time of writing `"platforms;android-28"`
+* Create a root folder `~/android`, extract the contents of downloaded zip above into this folder
+* The above folder will have tools folder by default with `sdkmanager` (`~/android/tools/bin/sdkmanager`), `avdmanager` etc
+* List all available packages with `sdkmanager --list --sdk_root=/home/aftab/android`
+* Run the sdkmanager to download what's necessary (Refer RN page below for latest versions)
+  - A target SDK version `"platforms;android-28"`
   - Latest platform tools `"platform-tools"`
+  - Build tools `"build-tools;28.0.3"`
   - And an emulator image - Same image as target version with 64bit + GApps + Playstore
-* Run `sdkmanager "platform-tools" "platforms;android-28" --sdk_root=/home/aftab/android/cli`
-* Run `sdkmanager "system-images;android-28;google_apis_playstore;x86_64" --sdk_root=/home/aftab/android/cli`
+* Run `sdkmanager "platform-tools" "platforms;android-28" "build-tools;28.0.3" --sdk_root=/home/aftab/android`
+* Run `sdkmanager "system-images;android-28;google_apis_playstore;x86_64" --sdk_root=/home/aftab/android`
 * Setup bash entries for all of these
 
 ```
-export ANDROID_HOME=$HOME/android/cli
+export ANDROID_HOME=$HOME/android
 export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 ```
+
+> * [React native latest android deps](https://reactnative.dev/docs/getting-started)
+> * [sdkmanager docs](https://developer.android.com/studio/command-line/sdkmanager)
+> * [avdmanager docs](https://developer.android.com/studio/command-line/avdmanager)
+> * [Running on actual device](https://reactnative.dev/docs/running-on-device)
 
 ## Starting counter-strike
 
