@@ -75,6 +75,14 @@ export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 ```
 
+* Create AVD `avdmanager create avd -n <name> -k "system-images;android-28;google_apis_playstore;x86_64"`
+* Edit the config file of AVD to have proper filepath for system image
+  - Look for `~/.android/avd/<name>.avd/` folder
+  - Edit the `config.ini` file in that folder
+  - Find the entry of `image.sysdir.1` key
+  - Update its value to be the fully qualified path for the image (prepend `/home/aftab/` to path)
+* Start the emulator `emulator -avd <name>`
+
 > * [React native latest android deps](https://reactnative.dev/docs/getting-started)
 > * [sdkmanager docs](https://developer.android.com/studio/command-line/sdkmanager)
 > * [avdmanager docs](https://developer.android.com/studio/command-line/avdmanager)
