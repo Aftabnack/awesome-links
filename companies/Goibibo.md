@@ -123,3 +123,4 @@ This is a Go-MMT's B2B portal for hoteliers to list and sell their property on G
 * Whatsapp Optin - 14th Oct 2019
 * Guest chat enhancements - Multiple release dates
 * Quality Score - 27th Jan 2020
+* ARI revamp - Complete rewrite of our Inventory page where hotelier manages his hotel's room availability and selling price points for each room, this was a massive project given that it went with complete BE revamp into a new microservice (Phoenix) - Went live 15th Apr
